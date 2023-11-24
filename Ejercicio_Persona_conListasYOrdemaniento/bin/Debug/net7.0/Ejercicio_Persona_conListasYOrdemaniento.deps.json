@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ejercicio_Persona_conListasYOrdemaniento/1.0.0": {
+        "runtime": {
+          "Ejercicio_Persona_conListasYOrdemaniento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_Persona_conListasYOrdemaniento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
